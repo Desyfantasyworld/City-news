@@ -1,7 +1,7 @@
 const data = [
   {
     title: "शादी के दिन लड़की ने फेरे लेने से किया इनकार",
-    image: "images/shadi_farar.jpg",
+    image: "shadi_farar.jpg",
     date: "2025-06-08",
     author: "City News Reporter",
     category: "rajneeti",
@@ -9,7 +9,7 @@ const data = [
   },
   {
     title: "कोर्ट ने आरोपी को सुनाई 5 साल की सजा",
-    image: "images/court_saza.jpg",
+    image: "court_saza.jpg",
     date: "2025-06-08",
     author: "City News Reporter",
     category: "crime",
@@ -17,7 +17,7 @@ const data = [
   },
   {
     title: "तेज रफ्तार कार ने मचाई तबाही",
-    image: "images/car_accident.jpg",
+    image: "car_accident.jpg",
     date: "2025-06-08",
     author: "City News Reporter",
     category: "local-news",
@@ -25,7 +25,7 @@ const data = [
   },
   {
     title: "हरियाणा में फेरे के समय टूटी शादी",
-    image: "images/haryana_shadi.jpg",
+    image: "haryana_shadi.jpg",
     date: "2025-06-08",
     author: "City News Reporter",
     category: "rajneeti",
@@ -33,7 +33,7 @@ const data = [
   },
   {
     title: "गाँव में लोगों को दी गई सरकारी योजना की जानकारी",
-    image: "images/sarkari_yojna.jpg",
+    image: "sarkari_yojna.jpg",
     date: "2025-06-08",
     author: "City News Reporter",
     category: "samaj",
